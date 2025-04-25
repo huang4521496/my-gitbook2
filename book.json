@@ -1,5 +1,9 @@
 {
-    "plugins": ["theme-default"],
+    "plugins": [
+        "theme-default",
+        "expandable-chapters",  
+        "back-to-top-button"    
+    ],
     "variables": {
       "themeDefault": {
         "showLevel": true  
