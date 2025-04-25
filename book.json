@@ -1,0 +1,8 @@
+{
+    "plugins": ["theme-default"],
+    "variables": {
+      "themeDefault": {
+        "showLevel": true  
+      }
+    }
+}
